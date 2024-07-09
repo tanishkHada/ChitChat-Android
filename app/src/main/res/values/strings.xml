@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChitChat</string>
+    <string name="title_activity_authentication">AuthenticationActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_status">StatusActivity</string>
+</resources>
