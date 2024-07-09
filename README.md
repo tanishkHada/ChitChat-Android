@@ -1,7 +1,7 @@
 
 # ChitChat (Android App)
 
-An application to chat with people and share stories, which runs on **Android 9** or higher.
+An application to chat with people and share stories, runs on **Android 9** or higher.
 
 
 ## App Look
